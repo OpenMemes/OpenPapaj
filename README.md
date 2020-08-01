@@ -1,4 +1,4 @@
-# OpenStonoga
+# OpenPapaj
 Zbiorek memów o Janie Pawle II.
 
 # Po co to komu?
